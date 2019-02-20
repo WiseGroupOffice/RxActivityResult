@@ -26,7 +26,7 @@ allprojects {
 And add next dependencies in the build.gradle of the module:
 ```gradle
 dependencies {
-    implementation 'com.github.VictorAlbertos:RxActivityResult:0.5.0-2.x'
+    implementation 'com.github.WiseGroupOffice:RxActivityResult:0.5.0-2.x'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.3'
 }
 ```
